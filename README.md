@@ -1,14 +1,14 @@
 ## Hey y'all 👋
 My name is James Foret. This is my university affiliated GitHub account where I'll be posting a mixture of required school projects and some personal projects I want to share for my resume. 
 
-I'm currently an undergrad student at UL Lafayette pursuing a bachelor's in Computer Science and a member of UL's Ethical Hacking Club! 
-( *Expected grad date -> Spring 2027* )
+I'm currently an undergrad student at UL Lafayette pursuing a bachelor's in Computer Science and a member of UL's Ethical Hacking Club.
+( *expected grad date: Spring 2027* )
 
 A lifelong creative with a passion for drumming, digital art, teaching, and music production. 
 
 I hope to combine my creativity and new technical skills to make unforgettable experiences, tools that enhance the creative workflows, or more secure systems.
 
-Please contact me on LinkedIn if you'd like to collaborate, employment opportunities, or to connect about a common interest
+Please contact me on LinkedIn if you'd like to collaborate, discuss employment opportunities, or connect about a common interest!
 
 - 🔭 I’m currently working on:
   - a new way to share confidential files securely in a b2b setting
