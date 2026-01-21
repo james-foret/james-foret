@@ -17,11 +17,9 @@ Please contact me on LinkedIn if you'd like to collaborate, discuss employment o
   - a web app for drum practice 
 - ### 💬 I’m currently learning:
   -  collaborative SWE principles and dev cycle
-  -  AWS
   -  API design
   -  TouchDesigner and audio-reactive AV tech
   -  DSP
-  -  the startup cycle
   -  responsible AI workflows
 <!--
 **james-foret/james-foret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
