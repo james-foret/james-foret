@@ -16,8 +16,6 @@ Please contact me on LinkedIn if you'd like to collaborate, discuss employment o
   - a digital card game
   - a web app for drum practice 
 - ### 💬 I’m currently learning:
-  -  collaborative SWE principles and dev cycle
-  -  API design
   -  TouchDesigner and audio-reactive AV tech
   -  DSP
   -  responsible AI workflows
