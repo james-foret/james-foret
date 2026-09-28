@@ -1,7 +1,7 @@
 ## Hey y'all 👋
 My name is James Foret. This is my university affiliated GitHub account where I'll be posting a mixture of required school projects and some personal projects I'd like to share. 
 
-I'm currently an undergrad student at UL Lafayette pursuing a bachelor's in CompSci and a member of UL's Ethical Hacking Club 
+I'm currently an undergrad student at UL Lafayette pursuing a bachelor's in CompSci with a concentration in Video Game Design and Development
 
 ( *grad date: Spring 2027* )
 
@@ -12,13 +12,8 @@ I hope to combine my creativity and technical skills to make unforgettable exper
 Please contact me on LinkedIn if you'd like to collaborate, discuss employment opportunities, or connect about a common interest!
 
 - ### 🔭 I’m currently working on:
-  - a new way to share confidential files securely in a b2b setting
-  - a digital card game
-  - a web app for drum practice 
-- ### 💬 I’m currently learning:
-  -  TouchDesigner and audio-reactive AV tech
-  -  DSP
-  -  responsible AI workflows
+  - a turn-based roguelike game in Unity
+  - a web app for building and sharing tabletop style games with your friends 
 <!--
 **james-foret/james-foret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
